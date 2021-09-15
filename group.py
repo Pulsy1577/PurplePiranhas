@@ -2,6 +2,8 @@
 print("Our group is made up of Derrick and Ian"):
 print("We both have played minecraft and skyrim"):
 
+
+
 def derrick():
 	print ("My name is Derrick.")
 
@@ -15,4 +17,5 @@ def ian():
 	print("I played varsity tennis for 4 years in high school"):
 
 
-
+derrick():
+ian():
