@@ -1,4 +1,6 @@
 
+print("Our group is made up of Derrick and Ian"):
+print("We both have played minecraft and skyrim"):
 
 def derrick():
 	print ("My name is Derrick.")
