@@ -1,6 +1,7 @@
 
 
 def derrick():
+	print ("My name is Derrick.")
 
 
 def ian():
