@@ -2,6 +2,12 @@
 
 def derrick():
 	print ("My name is Derrick.")
+	print("I'm a junior"):
+	print("I'm a CS Major"):
+	print("I also like to play games and sleep. I also have good memes"):
+	print("I grew up here in Montana"):
+	print("I'm into science fiction"):
+
 
 
 def ian():
